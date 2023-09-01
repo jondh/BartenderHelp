@@ -1,0 +1,451 @@
+{
+  "drinks": [
+    {
+      "name": "Hurricane",
+      "type": "Tropical",
+      "preparation": {
+        "glass": ["Collins", "Hurricane"],
+        "ice": "full",
+        "steps": [
+          [
+            {
+              "liquid": "Light Rum",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Dark Rum",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ],
+          [
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "Fill Half"
+            },
+            {
+              "liquid": "Orange Juice",
+              "amount": "Fill Half"
+            }
+          ],
+          [{
+            "liquid": "Grenadine",
+            "amount": "oz",
+            "quantity": 0.5
+          }],
+          [{
+            "liquid": "151 Rum",
+            "amount": "oz",
+            "quantity": 0.5
+          }]
+        ],
+        "garnish": ["Cherry"]
+      }
+    },
+    {
+      "name": "Planters Punch",
+      "type": "Tropical",
+      "preparation": {
+        "glass": ["Collins", "Hurricane"],
+        "ice": "full",
+        "steps": [
+          [
+            {
+              "liquid": "Light Rum",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Dark Rum",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ],
+          [
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "Fill Half"
+            },
+            {
+              "liquid": "Orange Juice",
+              "amount": "Fill Half"
+            }
+          ],
+          [
+            {
+              "liquid": "Triple Sec",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Grenadine",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "garnish": ["Cherry"]
+      }
+    },
+    {
+      "name": "Bahama Mama",
+      "type": "Tropical",
+      "preparation": {
+        "glass": ["Collins", "Hurricane"],
+        "ice": "full",
+        "steps": [
+          [
+            {
+              "liquid": "Malibu Rum",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "151 Rum",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ],
+          [
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "Fill Half"
+            },
+            {
+              "liquid": "Orange Juice",
+              "amount": "Fill Half"
+            }
+          ],
+          [
+            {
+              "liquid": "Grenadine",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "garnish": ["Cherry"]
+      }
+    },
+    {
+      "name": "Mai Tai (basic)",
+      "type": "Tropical",
+      "preparation": {
+        "glass": ["Collins", "Hurricane"],
+        "ice": "full",
+        "steps": [
+          [
+            {
+              "liquid": "Light Rum",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Dark Rum",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ],
+          [
+            {
+              "liquid": "Triple Sec",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Simple Syrup",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ],
+          [
+            {
+              "liquid": "Sweet and Sour",
+              "amount": "Fill"
+            }
+          ]
+        ],
+        "garnish": ["Cherry"]
+      }
+    },
+    {
+      "name": "Blue Hawaiian",
+      "type": "Tropical",
+      "preparation": {
+        "glass": ["Collins", "Hurricane"],
+        "ice": "full",
+        "steps": [
+          [
+            {
+              "liquid": "Rum",
+              "amount": "oz",
+              "quantity": 1.5
+            },
+            {
+              "liquid": "Blue Curacao",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ],
+          [
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "Fill"
+            }
+          ]
+        ],
+        "garnish": ["Cherry"]
+      }
+    },
+    {
+      "name": "Liquid Marijuana",
+      "type": "Tropical",
+      "preparation": {
+        "glass": ["Collins", "Hurricane"],
+        "ice": "full",
+        "steps": [
+          [
+            {
+              "liquid": "Malibu Rum",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Spiced Rum",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ],
+          [
+            {
+              "liquid": "Blue Curacao",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Midori",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ],
+          [
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "Fill Half"
+            },
+            {
+              "liquid": "Sweet and Sour",
+              "amount": "Fill Half"
+            }
+          ]
+        ],
+        "garnish": ["Cherry"]
+      }
+    },
+    {
+      "name": "Mexican Candy",
+      "type": "Shooter",
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Tequila",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Watermelon Schnapps",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ],
+          [
+            {
+              "liquid": "Hot Sauce",
+              "amount": "Dash"
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Green Tea Shot",
+      "type": "Shooter",
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Jameson Irish Whiskey",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true,
+        "top": [
+          {
+            "liquid": "7up",
+            "amount": "splash"
+          }
+        ]
+      }
+    },
+    {
+      "name": "White Gummy Bear",
+      "type": "Shooter",
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Triple Sec",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Chambord",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true,
+        "top": [
+          {
+            "liquid": "Sprite",
+            "amount": "splash"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Star F@#$er",
+      "type": "Shooter",
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Crown Royal",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Watermelon Pucker",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true,
+        "top": [
+          {
+            "liquid": "Red Bull",
+            "amount": "Top"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gummy Bear",
+      "type": "Shooter",
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Grenadine",
+              "amount": "splash"
+            }
+          ]
+        ],
+        "shake": true,
+        "top": [
+          {
+            "liquid": "Sprite",
+            "amount": "splash"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vegas Bomb",
+      "type": "Shooter",
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Crown Royal",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Malibu",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true,
+        "top": [
+          {
+            "liquid": "Red Bull",
+            "amount": "oz",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
