@@ -246,6 +246,7 @@
     {
       "name": "Mexican Candy",
       "type": "Shooter",
+      "priority": 1,
       "preparation": {
         "glass": ["Shooter", "Small Rocks"],
         "ice": "Mixing Cup",
@@ -275,6 +276,7 @@
     {
       "name": "Green Tea Shot",
       "type": "Shooter",
+      "priority": 1,
       "preparation": {
         "glass": ["Shooter", "Small Rocks"],
         "ice": "Mixing Cup",
@@ -309,6 +311,7 @@
     {
       "name": "White Gummy Bear",
       "type": "Shooter",
+      "priority": 1,
       "preparation": {
         "glass": ["Shooter", "Small Rocks"],
         "ice": "Mixing Cup",
@@ -348,6 +351,7 @@
     {
       "name": "Star F@#$er",
       "type": "Shooter",
+      "priority": 1,
       "preparation": {
         "glass": ["Shooter", "Small Rocks"],
         "ice": "Mixing Cup",
@@ -377,6 +381,7 @@
     {
       "name": "Gummy Bear",
       "type": "Shooter",
+      "priority": 1,
       "preparation": {
         "glass": ["Shooter", "Small Rocks"],
         "ice": "Mixing Cup",
@@ -415,6 +420,7 @@
     {
       "name": "Vegas Bomb",
       "type": "Shooter",
+      "priority": 1,
       "preparation": {
         "glass": ["Shooter", "Small Rocks"],
         "ice": "Mixing Cup",
@@ -445,6 +451,753 @@
             "quantity": 1
           }
         ]
+      }
+    },
+    {
+      "name": "Woo Woo/Pink Panty Dropper",
+      "type": "Shooter",
+      "priority": 1,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Peach Fuzz",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Orange Juice",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Silk Panties",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Orange Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Lemon Drop",
+      "type": "Shooter",
+      "priority": 1,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Squeeze Lemon",
+              "amount": "Fruit",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Tuaca Lemon Drop",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Tuaca",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Squeeze Lemon",
+              "amount": "Fruit",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Kamikaze",
+      "type": "Shooter",
+      "priority": 1,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Triple Sec",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Blue Kamikaze",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Blue Curacao",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Purple Hooter",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Chambord",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Water Moccasin",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Crown",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Royal F&^$",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Crown",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Chocolate Cake",
+      "type": "Shooter",
+      "priority": 1,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Frangelico",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ]
+        ],
+        "shake": true
+      },
+      "serve_with": "sugared lemon slice"
+    },
+    {
+      "name": "Cinnamon Toast",
+      "type": "Shooter",
+      "priority": 1,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Fireball",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Rumchata",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ]
+        ],
+        "shake": true
+      },
+      "note": "if both liquors cold, pour straight into glass"
+    },
+    {
+      "name": "Liquid Marijuana",
+      "type": "Shooter",
+      "priority": 1,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Malibu Rum",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Spiced Rum",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Midori",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Blue Curacao",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "splash"
+            },
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "splash"
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Red Headed Slut",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Jagermeister",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Peach Schnapps",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Pineapple Upside Down Cake",
+      "type": "Shooter",
+      "priority": 2,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vanilla Vodka",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ]
+        ],
+        "shake": true
+      },
+      "top": [
+        {
+          "liquid": "Grenadine",
+          "amount": "sink"
+        }
+      ]
+    },
+    {
+      "name": "Washington Apple",
+      "type": "Shooter",
+      "priority": 1,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Crown",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Apple Puckers",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Red Snapper",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Crown",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Amaretto",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Alien Secretion",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Midori",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Malibu",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "oz",
+              "quantity": 1
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Sex with an Alligator",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Midori",
+              "amount": "oz",
+              "quantity": 1
+            },
+            {
+              "liquid": "Sweet & Sour",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      },
+      "top": [
+        {
+          "liquid": "Chambord",
+          "amount": "oz",
+          "quantity": 0.5
+        },
+        {
+          "liquid": "Jagermeister",
+          "amount": "oz",
+          "quantity": 0.5
+        }
+      ]
+    },
+    {
+      "name": "57 Chevy (GAS GOP)",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Grand Marnier",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Amaretto",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Southern Comfort",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Grenadine",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Orange Juice",
+              "amount": "splash"
+            },
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "splash"
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Kool Aid",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Midori",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Southern Comfort",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Jolly Rancher",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Midori",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Southern Comfort",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Cranberry Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Amaretto",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Russian Quaalude",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Vodka",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Frangelico",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Kahlua",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Bailey's",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
+      }
+    },
+    {
+      "name": "Surfer on Acid",
+      "type": "Shooter",
+      "priority": 3,
+      "preparation": {
+        "glass": ["Shooter", "Small Rocks"],
+        "ice": "Mixing Cup",
+        "steps": [
+          [
+            {
+              "liquid": "Malibu",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Jagermeister",
+              "amount": "oz",
+              "quantity": 0.5
+            },
+            {
+              "liquid": "Pineapple Juice",
+              "amount": "oz",
+              "quantity": 0.5
+            }
+          ]
+        ],
+        "shake": true
       }
     }
   ]
