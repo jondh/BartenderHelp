@@ -10,7 +10,7 @@ import androidx.compose.ui.Modifier
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.jondh.bartenderhelp.model.getDrinksFromResources
 import com.jondh.bartenderhelp.ui.theme.BartenderHelpTheme
-import com.jondh.bartenderhelp.ui.view.DrinkCardScreen
+import com.jondh.bartenderhelp.ui.view.MainNav
 import com.jondh.bartenderhelp.ui.vm.DrinkCardViewModel
 
 class MainActivity : ComponentActivity() {
@@ -27,7 +27,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    DrinkCardScreen()
+                    MainNav()
                 }
             }
         }
