@@ -1,6 +1,7 @@
-package com.jondh.bartenderhelp
+package com.jondh.bartenderhelp.model
 
 import android.content.res.Resources
+import com.jondh.bartenderhelp.R
 import org.json.JSONArray
 import org.json.JSONObject
 import java.io.BufferedReader

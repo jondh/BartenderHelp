@@ -1,7 +1,8 @@
-package com.jondh.bartenderhelp
+package com.jondh.bartenderhelp.ui.vm
 
 import android.util.Log
 import androidx.lifecycle.ViewModel
+import com.jondh.bartenderhelp.model.Drink
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

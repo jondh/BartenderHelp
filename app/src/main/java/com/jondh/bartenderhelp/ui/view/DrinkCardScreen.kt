@@ -1,4 +1,4 @@
-package com.jondh.bartenderhelp
+package com.jondh.bartenderhelp.ui.view
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -29,6 +29,8 @@ import androidx.constraintlayout.compose.ChainStyle
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.jondh.bartenderhelp.model.Drink
+import com.jondh.bartenderhelp.ui.vm.DrinkCardViewModel
 
 @Composable
 fun DrinkCardScreen(
